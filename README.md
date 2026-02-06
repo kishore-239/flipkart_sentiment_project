@@ -69,7 +69,7 @@ The trained vectorizer and model were saved together as a pickle file for deploy
 - Python virtual environment used for dependency management
 
 ### Live Application URL
-[text](http://13.48.148.88:8501)
+[Live URL](http://13.48.148.88:8501)
 
 
 ---
@@ -97,3 +97,4 @@ streamlit run sentiment_app.py
 
 ## Conclusion
 This project demonstrates a complete machine learning workflow, including data preprocessing, model training and evaluation, model serialization, web application development, and cloud deployment on AWS. The deployed application successfully performs real-time sentiment analysis on Flipkart product reviews.
+
