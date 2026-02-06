@@ -69,7 +69,7 @@ The trained vectorizer and model were saved together as a pickle file for deploy
 - Python virtual environment used for dependency management
 
 ### Live Application URL
-[Live URL](http://13.48.148.88:8501)
+[text](http://13.48.148.88:8501)
 
 
 ---
