@@ -99,3 +99,4 @@ streamlit run sentiment_app.py
 This project demonstrates a complete machine learning workflow, including data preprocessing, model training and evaluation, model serialization, web application development, and cloud deployment on AWS. The deployed application successfully performs real-time sentiment analysis on Flipkart product reviews.
 
 
+
